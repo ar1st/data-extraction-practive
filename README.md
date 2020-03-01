@@ -1,1 +1,1 @@
-# 7th-semester-courses
+# Practice for data extraction project
